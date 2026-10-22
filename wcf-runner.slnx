@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wcf-runner.vcxproj" Id="a62f87ca-bc95-46e2-96b2-a9d28fd1184b" />
+</Solution>
