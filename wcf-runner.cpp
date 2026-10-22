@@ -48,6 +48,8 @@ int main() {
 
 	std::cout << "Status: " << status << std::endl;
 
+	WxDestroySDK();
+
 	FreeLibrary(hDll);
 
 	status = 0;
